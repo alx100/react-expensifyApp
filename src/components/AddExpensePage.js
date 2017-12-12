@@ -28,4 +28,3 @@ const mapDispatchToProps = (dispatch) => ({
 });
 
 export default connect(undefined, mapDispatchToProps)(AddExpensePage);
-import {  } from "module";
