@@ -10,6 +10,9 @@ import expensesReducer from './reducers/expenses';
 import filtersReducer from './reducers/filters';
 import getVisibleExpenses from './selectors/expenses';
 
+import './firebase/firebase';
+// import './playground/promises';
+
 import 'normalize.css/normalize.css';
 import './styles/styles.scss';
 import 'react-dates/lib/css/_datepicker.css';
