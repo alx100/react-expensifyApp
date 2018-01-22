@@ -11,7 +11,7 @@ import filtersReducer from './reducers/filters';
 import getVisibleExpenses from './selectors/expenses';
 
 import './firebase/firebase';
-// import './playground/promises';
+import './playground/promises';
 
 import 'normalize.css/normalize.css';
 import './styles/styles.scss';
